@@ -1,0 +1,14 @@
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/time/obj/Debug/net8.0/time.GeneratedMSBuildEditorConfig.editorconfig
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/time/obj/Debug/net8.0/time.AssemblyInfoInputs.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/time/obj/Debug/net8.0/time.AssemblyInfo.cs
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/time/obj/Debug/net8.0/time.csproj.CoreCompileInputs.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/time/bin/Debug/net8.0/time
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/time/bin/Debug/net8.0/time.deps.json
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/time/bin/Debug/net8.0/time.runtimeconfig.json
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/time/bin/Debug/net8.0/time.dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/time/bin/Debug/net8.0/time.pdb
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/time/obj/Debug/net8.0/time.dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/time/obj/Debug/net8.0/refint/time.dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/time/obj/Debug/net8.0/time.pdb
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/time/obj/Debug/net8.0/time.genruntimeconfig.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/time/obj/Debug/net8.0/ref/time.dll

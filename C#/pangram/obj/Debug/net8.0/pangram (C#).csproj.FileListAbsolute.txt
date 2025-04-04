@@ -1,0 +1,28 @@
+/home/roryraqu/Desktop/prog/ЛР2/Проект/2.9/pangram (C#)/obj/Debug/net8.0/pangram (C#).GeneratedMSBuildEditorConfig.editorconfig
+/home/roryraqu/Desktop/prog/ЛР2/Проект/2.9/pangram (C#)/obj/Debug/net8.0/pangram (C#).AssemblyInfoInputs.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/2.9/pangram (C#)/obj/Debug/net8.0/pangram (C#).AssemblyInfo.cs
+/home/roryraqu/Desktop/prog/ЛР2/Проект/2.9/pangram (C#)/obj/Debug/net8.0/pangram (C#).csproj.CoreCompileInputs.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/2.9/pangram (C#)/bin/Debug/net8.0/pangram (C#)
+/home/roryraqu/Desktop/prog/ЛР2/Проект/2.9/pangram (C#)/bin/Debug/net8.0/pangram (C#).deps.json
+/home/roryraqu/Desktop/prog/ЛР2/Проект/2.9/pangram (C#)/bin/Debug/net8.0/pangram (C#).runtimeconfig.json
+/home/roryraqu/Desktop/prog/ЛР2/Проект/2.9/pangram (C#)/bin/Debug/net8.0/pangram (C#).dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/2.9/pangram (C#)/bin/Debug/net8.0/pangram (C#).pdb
+/home/roryraqu/Desktop/prog/ЛР2/Проект/2.9/pangram (C#)/obj/Debug/net8.0/pangram (C#).dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/2.9/pangram (C#)/obj/Debug/net8.0/refint/pangram (C#).dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/2.9/pangram (C#)/obj/Debug/net8.0/pangram (C#).pdb
+/home/roryraqu/Desktop/prog/ЛР2/Проект/2.9/pangram (C#)/obj/Debug/net8.0/pangram (C#).genruntimeconfig.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/2.9/pangram (C#)/obj/Debug/net8.0/ref/pangram (C#).dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/pangram/bin/Debug/net8.0/pangram (C#)
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/pangram/bin/Debug/net8.0/pangram (C#).deps.json
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/pangram/bin/Debug/net8.0/pangram (C#).runtimeconfig.json
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/pangram/bin/Debug/net8.0/pangram (C#).dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/pangram/bin/Debug/net8.0/pangram (C#).pdb
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/pangram/obj/Debug/net8.0/pangram (C#).GeneratedMSBuildEditorConfig.editorconfig
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/pangram/obj/Debug/net8.0/pangram (C#).AssemblyInfoInputs.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/pangram/obj/Debug/net8.0/pangram (C#).AssemblyInfo.cs
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/pangram/obj/Debug/net8.0/pangram (C#).csproj.CoreCompileInputs.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/pangram/obj/Debug/net8.0/pangram (C#).dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/pangram/obj/Debug/net8.0/refint/pangram (C#).dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/pangram/obj/Debug/net8.0/pangram (C#).pdb
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/pangram/obj/Debug/net8.0/pangram (C#).genruntimeconfig.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/pangram/obj/Debug/net8.0/ref/pangram (C#).dll

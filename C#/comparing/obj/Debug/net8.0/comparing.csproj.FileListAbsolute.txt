@@ -1,0 +1,42 @@
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing/bin/Debug/net8.0/comparing
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing/bin/Debug/net8.0/comparing.deps.json
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing/bin/Debug/net8.0/comparing.runtimeconfig.json
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing/bin/Debug/net8.0/comparing.dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing/bin/Debug/net8.0/comparing.pdb
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing/obj/Debug/net8.0/comparing.GeneratedMSBuildEditorConfig.editorconfig
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing/obj/Debug/net8.0/comparing.AssemblyInfoInputs.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing/obj/Debug/net8.0/comparing.AssemblyInfo.cs
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing/obj/Debug/net8.0/comparing.csproj.CoreCompileInputs.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing/obj/Debug/net8.0/comparing.dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing/obj/Debug/net8.0/refint/comparing.dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing/obj/Debug/net8.0/comparing.pdb
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing/obj/Debug/net8.0/comparing.genruntimeconfig.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing/obj/Debug/net8.0/ref/comparing.dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing (C#)/obj/Debug/net8.0/comparing.GeneratedMSBuildEditorConfig.editorconfig
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing (C#)/obj/Debug/net8.0/comparing.AssemblyInfoInputs.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing (C#)/obj/Debug/net8.0/comparing.AssemblyInfo.cs
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing (C#)/obj/Debug/net8.0/comparing.csproj.CoreCompileInputs.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing (C#)/obj/Debug/net8.0/comparing.dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing (C#)/obj/Debug/net8.0/refint/comparing.dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing (C#)/obj/Debug/net8.0/comparing.pdb
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing (C#)/bin/Debug/net8.0/comparing
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing (C#)/bin/Debug/net8.0/comparing.deps.json
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing (C#)/bin/Debug/net8.0/comparing.runtimeconfig.json
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing (C#)/bin/Debug/net8.0/comparing.dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing (C#)/bin/Debug/net8.0/comparing.pdb
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing (C#)/obj/Debug/net8.0/comparing.genruntimeconfig.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/1.9/comparing (C#)/obj/Debug/net8.0/ref/comparing.dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/comparing/bin/Debug/net8.0/comparing
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/comparing/bin/Debug/net8.0/comparing.deps.json
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/comparing/bin/Debug/net8.0/comparing.runtimeconfig.json
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/comparing/bin/Debug/net8.0/comparing.dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/comparing/bin/Debug/net8.0/comparing.pdb
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/comparing/obj/Debug/net8.0/comparing.GeneratedMSBuildEditorConfig.editorconfig
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/comparing/obj/Debug/net8.0/comparing.AssemblyInfoInputs.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/comparing/obj/Debug/net8.0/comparing.AssemblyInfo.cs
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/comparing/obj/Debug/net8.0/comparing.csproj.CoreCompileInputs.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/comparing/obj/Debug/net8.0/comparing.dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/comparing/obj/Debug/net8.0/refint/comparing.dll
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/comparing/obj/Debug/net8.0/comparing.pdb
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/comparing/obj/Debug/net8.0/comparing.genruntimeconfig.cache
+/home/roryraqu/Desktop/prog/ЛР2/Проект/C#/comparing/obj/Debug/net8.0/ref/comparing.dll
